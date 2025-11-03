@@ -1,9 +1,9 @@
 /* Grundlayout */
 :root {
-  --bg: #0a0a0a;
+  --bg: #3d3d3d;
   --text: #ffffff;
   --muted: #b0b0b0;
-  --accent: #ff4d4d; /* Rot für Hinweis */
+  --accent: #ed1Cc4; /* Rot für Hinweis */
   --maxw: 960px;
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
 }
@@ -28,6 +28,7 @@ body {
   justify-content: space-between;
   align-items: center;
   margin-bottom: 40px;
+  background-color: #262626;
 }
 
 .logo {
@@ -97,6 +98,7 @@ body {
   margin-top: 40px;
   font-size: 13px;
   color: var(--muted);
+  background-color: #2e2e2e;
 }
 
 .left-foot {
