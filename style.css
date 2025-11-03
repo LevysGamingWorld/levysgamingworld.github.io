@@ -38,7 +38,7 @@ body {
 }
 
 .logo:hover {
-  color: var(--accent);
+  color: var(--muted);
 }
 
 .logs {
@@ -53,7 +53,7 @@ body {
 }
 
 .nav-link {
-  color: var(--muted);
+  color: var(--text);
   text-decoration: none;
   font-size: 14px;
   padding: 6px 10px;
